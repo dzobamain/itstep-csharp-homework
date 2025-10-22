@@ -1,0 +1,14 @@
+/Users/volodymyrdzoba/it-hub/ITStep-C#/html_css_homework_from_2025_5_30/hw_2025_6_6/task1/server/bin/Debug/net9.0/server
+/Users/volodymyrdzoba/it-hub/ITStep-C#/html_css_homework_from_2025_5_30/hw_2025_6_6/task1/server/bin/Debug/net9.0/server.deps.json
+/Users/volodymyrdzoba/it-hub/ITStep-C#/html_css_homework_from_2025_5_30/hw_2025_6_6/task1/server/bin/Debug/net9.0/server.runtimeconfig.json
+/Users/volodymyrdzoba/it-hub/ITStep-C#/html_css_homework_from_2025_5_30/hw_2025_6_6/task1/server/bin/Debug/net9.0/server.dll
+/Users/volodymyrdzoba/it-hub/ITStep-C#/html_css_homework_from_2025_5_30/hw_2025_6_6/task1/server/bin/Debug/net9.0/server.pdb
+/Users/volodymyrdzoba/it-hub/ITStep-C#/html_css_homework_from_2025_5_30/hw_2025_6_6/task1/server/obj/Debug/net9.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/volodymyrdzoba/it-hub/ITStep-C#/html_css_homework_from_2025_5_30/hw_2025_6_6/task1/server/obj/Debug/net9.0/server.AssemblyInfoInputs.cache
+/Users/volodymyrdzoba/it-hub/ITStep-C#/html_css_homework_from_2025_5_30/hw_2025_6_6/task1/server/obj/Debug/net9.0/server.AssemblyInfo.cs
+/Users/volodymyrdzoba/it-hub/ITStep-C#/html_css_homework_from_2025_5_30/hw_2025_6_6/task1/server/obj/Debug/net9.0/server.csproj.CoreCompileInputs.cache
+/Users/volodymyrdzoba/it-hub/ITStep-C#/html_css_homework_from_2025_5_30/hw_2025_6_6/task1/server/obj/Debug/net9.0/server.dll
+/Users/volodymyrdzoba/it-hub/ITStep-C#/html_css_homework_from_2025_5_30/hw_2025_6_6/task1/server/obj/Debug/net9.0/refint/server.dll
+/Users/volodymyrdzoba/it-hub/ITStep-C#/html_css_homework_from_2025_5_30/hw_2025_6_6/task1/server/obj/Debug/net9.0/server.pdb
+/Users/volodymyrdzoba/it-hub/ITStep-C#/html_css_homework_from_2025_5_30/hw_2025_6_6/task1/server/obj/Debug/net9.0/server.genruntimeconfig.cache
+/Users/volodymyrdzoba/it-hub/ITStep-C#/html_css_homework_from_2025_5_30/hw_2025_6_6/task1/server/obj/Debug/net9.0/ref/server.dll
