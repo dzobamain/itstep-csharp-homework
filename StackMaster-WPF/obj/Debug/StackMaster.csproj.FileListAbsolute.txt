@@ -1,0 +1,14 @@
+D:\it-hub\hw-wfp\StackMaster\StackMaster\bin\Debug\StackMaster.exe.config
+D:\it-hub\hw-wfp\StackMaster\StackMaster\bin\Debug\StackMaster.exe
+D:\it-hub\hw-wfp\StackMaster\StackMaster\bin\Debug\StackMaster.pdb
+D:\it-hub\hw-wfp\StackMaster\StackMaster\obj\Debug\StackMaster.csproj.AssemblyReference.cache
+D:\it-hub\hw-wfp\StackMaster\StackMaster\obj\Debug\MainWindow.g.cs
+D:\it-hub\hw-wfp\StackMaster\StackMaster\obj\Debug\App.g.cs
+D:\it-hub\hw-wfp\StackMaster\StackMaster\obj\Debug\StackMaster_MarkupCompile.cache
+D:\it-hub\hw-wfp\StackMaster\StackMaster\obj\Debug\MainWindow.baml
+D:\it-hub\hw-wfp\StackMaster\StackMaster\obj\Debug\StackMaster.g.resources
+D:\it-hub\hw-wfp\StackMaster\StackMaster\obj\Debug\StackMaster.Properties.Resources.resources
+D:\it-hub\hw-wfp\StackMaster\StackMaster\obj\Debug\StackMaster.csproj.GenerateResource.cache
+D:\it-hub\hw-wfp\StackMaster\StackMaster\obj\Debug\StackMaster.csproj.CoreCompileInputs.cache
+D:\it-hub\hw-wfp\StackMaster\StackMaster\obj\Debug\StackMaster.exe
+D:\it-hub\hw-wfp\StackMaster\StackMaster\obj\Debug\StackMaster.pdb
