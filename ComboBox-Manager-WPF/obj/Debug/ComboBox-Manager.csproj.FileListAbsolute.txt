@@ -1,0 +1,15 @@
+D:\it-hub\hw-wfp\ComboBox-Manager\ComboBox-Manager\obj\Debug\ComboBox-Manager.csproj.AssemblyReference.cache
+D:\it-hub\hw-wfp\ComboBox-Manager\ComboBox-Manager\obj\Debug\App.g.cs
+D:\it-hub\hw-wfp\ComboBox-Manager\ComboBox-Manager\obj\Debug\ComboBox-Manager_MarkupCompile.cache
+D:\it-hub\hw-wfp\ComboBox-Manager\ComboBox-Manager\bin\Debug\ComboBox-Manager.exe.config
+D:\it-hub\hw-wfp\ComboBox-Manager\ComboBox-Manager\bin\Debug\ComboBox-Manager.exe
+D:\it-hub\hw-wfp\ComboBox-Manager\ComboBox-Manager\bin\Debug\ComboBox-Manager.pdb
+D:\it-hub\hw-wfp\ComboBox-Manager\ComboBox-Manager\obj\Debug\MainWindow.g.cs
+D:\it-hub\hw-wfp\ComboBox-Manager\ComboBox-Manager\obj\Debug\ComboBox-Manager_MarkupCompile.lref
+D:\it-hub\hw-wfp\ComboBox-Manager\ComboBox-Manager\obj\Debug\MainWindow.baml
+D:\it-hub\hw-wfp\ComboBox-Manager\ComboBox-Manager\obj\Debug\ComboBox-Manager.g.resources
+D:\it-hub\hw-wfp\ComboBox-Manager\ComboBox-Manager\obj\Debug\ComboBox_Manager.Properties.Resources.resources
+D:\it-hub\hw-wfp\ComboBox-Manager\ComboBox-Manager\obj\Debug\ComboBox-Manager.csproj.GenerateResource.cache
+D:\it-hub\hw-wfp\ComboBox-Manager\ComboBox-Manager\obj\Debug\ComboBox-Manager.csproj.CoreCompileInputs.cache
+D:\it-hub\hw-wfp\ComboBox-Manager\ComboBox-Manager\obj\Debug\ComboBox-Manager.exe
+D:\it-hub\hw-wfp\ComboBox-Manager\ComboBox-Manager\obj\Debug\ComboBox-Manager.pdb
