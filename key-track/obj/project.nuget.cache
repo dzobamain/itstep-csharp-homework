@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "7UciNtjcCXE=",
+  "success": false,
+  "projectFilePath": "/Users/volodymyrdzoba/it-hub/projects/key-track/key-track.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package MacDev.EventTap. No packages exist with this id in source(s): /usr/local/share/dotnet/library-packs, nuget.org",
+      "libraryId": "MacDev.EventTap",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+/Users/volodymyrdzoba/it-hub/projects/key-track/obj/Debug/net9.0/key-track.GeneratedMSBuildEditorConfig.editorconfig
+/Users/volodymyrdzoba/it-hub/projects/key-track/obj/Debug/net9.0/key-track.AssemblyInfoInputs.cache
+/Users/volodymyrdzoba/it-hub/projects/key-track/obj/Debug/net9.0/key-track.AssemblyInfo.cs
+/Users/volodymyrdzoba/it-hub/projects/key-track/obj/Debug/net9.0/key-track.csproj.CoreCompileInputs.cache
+/Users/volodymyrdzoba/it-hub/projects/key-track/obj/Debug/net9.0/key-track.sourcelink.json
