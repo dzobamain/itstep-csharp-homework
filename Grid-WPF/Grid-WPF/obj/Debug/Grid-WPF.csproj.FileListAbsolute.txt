@@ -1,0 +1,15 @@
+D:\it-hub\hw-wfp\Grid-WPF\Grid-WPF\bin\Debug\Grid-WPF.exe.config
+D:\it-hub\hw-wfp\Grid-WPF\Grid-WPF\bin\Debug\Grid-WPF.exe
+D:\it-hub\hw-wfp\Grid-WPF\Grid-WPF\bin\Debug\Grid-WPF.pdb
+D:\it-hub\hw-wfp\Grid-WPF\Grid-WPF\obj\Debug\Grid-WPF.csproj.AssemblyReference.cache
+D:\it-hub\hw-wfp\Grid-WPF\Grid-WPF\obj\Debug\MainWindow.g.cs
+D:\it-hub\hw-wfp\Grid-WPF\Grid-WPF\obj\Debug\App.g.cs
+D:\it-hub\hw-wfp\Grid-WPF\Grid-WPF\obj\Debug\Grid-WPF_MarkupCompile.cache
+D:\it-hub\hw-wfp\Grid-WPF\Grid-WPF\obj\Debug\MainWindow.baml
+D:\it-hub\hw-wfp\Grid-WPF\Grid-WPF\obj\Debug\Grid-WPF.g.resources
+D:\it-hub\hw-wfp\Grid-WPF\Grid-WPF\obj\Debug\Grid_WPF.Properties.Resources.resources
+D:\it-hub\hw-wfp\Grid-WPF\Grid-WPF\obj\Debug\Grid-WPF.csproj.GenerateResource.cache
+D:\it-hub\hw-wfp\Grid-WPF\Grid-WPF\obj\Debug\Grid-WPF.csproj.CoreCompileInputs.cache
+D:\it-hub\hw-wfp\Grid-WPF\Grid-WPF\obj\Debug\Grid-WPF.exe
+D:\it-hub\hw-wfp\Grid-WPF\Grid-WPF\obj\Debug\Grid-WPF.pdb
+D:\it-hub\hw-wfp\Grid-WPF\Grid-WPF\obj\Debug\Grid-WPF_MarkupCompile.lref
