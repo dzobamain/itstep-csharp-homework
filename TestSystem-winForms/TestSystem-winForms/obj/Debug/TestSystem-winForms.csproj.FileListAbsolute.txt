@@ -1,0 +1,10 @@
+D:\it-hub\winForms-hw\TestSystem\TestSystem-winForms\bin\Debug\TestSystem-winForms.exe.config
+D:\it-hub\winForms-hw\TestSystem\TestSystem-winForms\bin\Debug\TestSystem-winForms.exe
+D:\it-hub\winForms-hw\TestSystem\TestSystem-winForms\bin\Debug\TestSystem-winForms.pdb
+D:\it-hub\winForms-hw\TestSystem\TestSystem-winForms\obj\Debug\TestSystem-winForms.csproj.AssemblyReference.cache
+D:\it-hub\winForms-hw\TestSystem\TestSystem-winForms\obj\Debug\TestSystem_winForms.Form1.resources
+D:\it-hub\winForms-hw\TestSystem\TestSystem-winForms\obj\Debug\TestSystem_winForms.Properties.Resources.resources
+D:\it-hub\winForms-hw\TestSystem\TestSystem-winForms\obj\Debug\TestSystem-winForms.csproj.GenerateResource.cache
+D:\it-hub\winForms-hw\TestSystem\TestSystem-winForms\obj\Debug\TestSystem-winForms.csproj.CoreCompileInputs.cache
+D:\it-hub\winForms-hw\TestSystem\TestSystem-winForms\obj\Debug\TestSystem-winForms.exe
+D:\it-hub\winForms-hw\TestSystem\TestSystem-winForms\obj\Debug\TestSystem-winForms.pdb
