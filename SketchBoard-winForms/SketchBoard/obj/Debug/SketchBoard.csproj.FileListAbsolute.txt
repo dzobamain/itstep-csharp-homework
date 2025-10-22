@@ -1,0 +1,10 @@
+D:\it-hub\winForms-hw\SketchBoard\SketchBoard\obj\Debug\SketchBoard.csproj.AssemblyReference.cache
+D:\it-hub\winForms-hw\SketchBoard\SketchBoard\obj\Debug\SketchBoard.Form1.resources
+D:\it-hub\winForms-hw\SketchBoard\SketchBoard\obj\Debug\SketchBoard.Properties.Resources.resources
+D:\it-hub\winForms-hw\SketchBoard\SketchBoard\obj\Debug\SketchBoard.csproj.GenerateResource.cache
+D:\it-hub\winForms-hw\SketchBoard\SketchBoard\obj\Debug\SketchBoard.csproj.CoreCompileInputs.cache
+D:\it-hub\winForms-hw\SketchBoard\SketchBoard\bin\Debug\SketchBoard.exe.config
+D:\it-hub\winForms-hw\SketchBoard\SketchBoard\bin\Debug\SketchBoard.exe
+D:\it-hub\winForms-hw\SketchBoard\SketchBoard\bin\Debug\SketchBoard.pdb
+D:\it-hub\winForms-hw\SketchBoard\SketchBoard\obj\Debug\SketchBoard.exe
+D:\it-hub\winForms-hw\SketchBoard\SketchBoard\obj\Debug\SketchBoard.pdb
